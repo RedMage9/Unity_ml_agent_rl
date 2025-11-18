@@ -1,6 +1,6 @@
 # Soccer2v2 Environment
 
-![demo](Distributional training on Soccer2v2.gif)
+![demo](Distributional_training.gif)
 
 
 ## 1. Overview
