@@ -1,5 +1,8 @@
 # Soccer2v2 Environment
 
+![demo](Distributional training on Soccer2v2.gif)
+
+
 ## 1. Overview
 
 2v2 soccer simulation environment for multi-agent reinforcement learning.
@@ -24,3 +27,5 @@
 
 - Unity ML-Agents
 - POCA (Policy Optimization with Covariance Adaptation) algorithm
+
+![demo](Soccer2v2.gif)
